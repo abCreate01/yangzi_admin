@@ -1,0 +1,35 @@
+.custom-theme .ant-menu {
+    background: transparent !important;
+    color: #fff !important;
+}
+
+.custom-theme {
+    background: linear-gradient(to right,#001529 0,#00152990 100%) !important;
+    color: #fff !important;
+}
+
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 65px;
+    line-height: 65px;
+    /* background: #364d79; */
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+
+  .anticon {
+    display: inline-block;
+    font-style: normal;
+    vertical-align: -0.125em;
+    text-align: center;
+    text-transform: none;
+    line-height: 0;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    left: 4.5px;
+}

@@ -1,0 +1,10 @@
+.user-msg {
+    position: absolute;
+    right: 90px;
+}
+
+.logout-btn {
+    position: absolute;
+    right: 20px;
+    top: 16px;
+}
