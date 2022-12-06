@@ -52,7 +52,7 @@
     "expect": "^1.20.1",
     "mockjs": "^1.0.1-beta3",
     "pre-commit": "1.x",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "redbox-react": "^1.2.6"
   },
   "pre-commit": [
